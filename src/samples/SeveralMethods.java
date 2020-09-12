@@ -22,4 +22,19 @@ public class SeveralMethods {
         return val1 * 6 + val2;
     }
 
+    public int methodE(int a, int b){
+        int val1 = methodB(a, b);
+        int val2 = methodB(a, b);
+        int val3 = methodB(a, b);
+        int val4 = methodB(a, b);
+        int val5 = methodB(a, b);
+        return val1 + val2 + val3 + val4 + val5;
+    }
+
+    public int methodF(int a, int b, int c, int d){
+        int val1 = a * 6 + b;
+        int val2 = c * 6 + d;
+        return val1 * 6 + val2;
+    }
+
 }

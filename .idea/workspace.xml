@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64c45908-5f00-4747-8c7f-b2f695d27573" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/samples/SeveralMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/samples/SeveralOtherMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/samples/SeveralMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/samples/SeveralMethods.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/samples/SeveralMethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="612">
+              <caret line="36" column="31" lean-forward="true" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
               <folding>
                 <element signature="e#77#78#0" expanded="true" />
                 <element signature="e#109#110#0" expanded="true" />
@@ -32,16 +31,17 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/samples/SeveralOtherMethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+            <state relative-caret-position="306">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
               <folding>
                 <element signature="e#86#87#0" expanded="true" />
                 <element signature="e#118#119#0" expanded="true" />
                 <element signature="e#137#138#0" expanded="true" />
                 <element signature="e#169#170#0" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
                 <element signature="e#248#249#0" expanded="true" />
                 <element signature="e#287#288#0" expanded="true" />
                 <element signature="e#319#320#0" expanded="true" />
@@ -66,8 +66,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/SeveralMethods.java" />
-        <option value="$PROJECT_DIR$/src/samples/SeveralMethods.java" />
         <option value="$PROJECT_DIR$/src/samples/SeveralOtherMethods.java" />
+        <option value="$PROJECT_DIR$/src/samples/SeveralMethods.java" />
       </list>
     </option>
   </component>
@@ -119,6 +119,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -180,31 +181,32 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/samples/SeveralMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="e#77#78#0" expanded="true" />
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/samples/SeveralOtherMethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        <state relative-caret-position="306">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="e#86#87#0" expanded="true" />
             <element signature="e#118#119#0" expanded="true" />
             <element signature="e#137#138#0" expanded="true" />
             <element signature="e#169#170#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
             <element signature="e#248#249#0" expanded="true" />
             <element signature="e#287#288#0" expanded="true" />
             <element signature="e#319#320#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/samples/SeveralMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="31" lean-forward="true" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+          <folding>
+            <element signature="e#77#78#0" expanded="true" />
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
           </folding>
         </state>
       </provider>
